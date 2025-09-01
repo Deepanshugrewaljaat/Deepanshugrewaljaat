@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deepanshugrewaljaat
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
-- 📫 How to reach me grewaldeepanshu@gmail.com
+- 📫 How to reach me grewaldeepanshu197@gmail.com
 - ⚡ Fun fact: also know some boxing and wrestling.
 
 <!---
