@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Deepanshugrewaljaat
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 😁i have completed my javascript journey
+- 🌱 I’m currently learning react-js
 - 📫 How to reach me grewaldeepanshu197@gmail.com
 - ⚡ Fun fact: also know some boxing and wrestling.
 
